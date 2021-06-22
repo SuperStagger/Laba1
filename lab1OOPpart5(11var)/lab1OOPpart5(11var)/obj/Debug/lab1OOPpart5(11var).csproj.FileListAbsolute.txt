@@ -1,0 +1,10 @@
+D:\Git\OOP-Lab_1\lab1OOPpart5(11var)\lab1OOPpart5(11var)\bin\Debug\lab1OOPpart5(11var).exe.config
+D:\Git\OOP-Lab_1\lab1OOPpart5(11var)\lab1OOPpart5(11var)\bin\Debug\lab1OOPpart5(11var).exe
+D:\Git\OOP-Lab_1\lab1OOPpart5(11var)\lab1OOPpart5(11var)\bin\Debug\lab1OOPpart5(11var).pdb
+D:\Git\OOP-Lab_1\lab1OOPpart5(11var)\lab1OOPpart5(11var)\obj\Debug\lab1OOPpart5(11var).csprojAssemblyReference.cache
+D:\Git\OOP-Lab_1\lab1OOPpart5(11var)\lab1OOPpart5(11var)\obj\Debug\lab1OOPpart5_11var_.Form1.resources
+D:\Git\OOP-Lab_1\lab1OOPpart5(11var)\lab1OOPpart5(11var)\obj\Debug\lab1OOPpart5_11var_.Properties.Resources.resources
+D:\Git\OOP-Lab_1\lab1OOPpart5(11var)\lab1OOPpart5(11var)\obj\Debug\lab1OOPpart5(11var).csproj.GenerateResource.cache
+D:\Git\OOP-Lab_1\lab1OOPpart5(11var)\lab1OOPpart5(11var)\obj\Debug\lab1OOPpart5(11var).csproj.CoreCompileInputs.cache
+D:\Git\OOP-Lab_1\lab1OOPpart5(11var)\lab1OOPpart5(11var)\obj\Debug\lab1OOPpart5(11var).exe
+D:\Git\OOP-Lab_1\lab1OOPpart5(11var)\lab1OOPpart5(11var)\obj\Debug\lab1OOPpart5(11var).pdb
